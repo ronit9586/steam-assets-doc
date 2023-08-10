@@ -1,5 +1,3 @@
-Absolutely! Let's dive deeper into the first technical step: **Steam API Integration**.
-
 ### Steam API Integration
 
 1. **Register for a Steam API Key**:
